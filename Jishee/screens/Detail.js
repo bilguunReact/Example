@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Detail({ navigation }) {
   const textWorkPressed = () => {
-    navigation.navigate("B1");
+    navigation.navigate("Home");
   };
   return (
     <View style={styles.view1}>
