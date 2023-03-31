@@ -29,7 +29,7 @@ import {
                 color="blue"
               />
               <Image
-                source={require("../../assets/FullMoon2010.jpg")}
+                source={require("../../Jishee/assets/favicon.png")}
                 style={styles.greetingAvatar}
               />
             </View>
@@ -69,7 +69,7 @@ import {
               <Text style={styles.Text1}>kiki bolon gigi</Text>
               <Text style={styles.Text2}>Ene 7 honogiin ontsloh</Text>
               <Image
-                source={require("../../assets/FullMoon2010.jpg")}
+                source={require("../../Jishee/assets/favicon.png")}
                 style={styles.BigImage}
               />
             </View>
@@ -79,7 +79,7 @@ import {
             <Text style={styles.Text1}>kiki bolon gigi</Text>
             <Text style={styles.Text2}>Ene 7 honogiin ontsloh</Text>
             <Image
-              source={require("../../assets/FullMoon2010.jpg")}
+              source={require("../../Jishee/assets/favicon.png")}
               style={styles.BigImage}
             />
           </View>
@@ -88,7 +88,7 @@ import {
             <Text style={styles.Text1}>kiki bolon gigi</Text>
             <Text style={styles.Text2}>Ene 7 honogiin ontsloh</Text>
             <Image
-              source={require("../../assets/FullMoon2010.jpg")}
+              source={require("../../Jishee/assets/favicon.png")}
               style={styles.BigImage}
             />
           </View>
