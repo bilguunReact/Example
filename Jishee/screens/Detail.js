@@ -2,14 +2,14 @@ import { View, Text, StyleSheet, Pressable } from "react-native";
 import React from "react";
 
 export default function Detail({ navigation }) {
-  const buumed = () => {
+  const textWorkPressed = () => {
     navigation.navigate("B1");
   };
   return (
     <View style={styles.view1}>
       <Pressable
         onPress={() => {
-          buumed();
+          textWorkPressed();
         }}
       >
         <Text>Detail</Text>
